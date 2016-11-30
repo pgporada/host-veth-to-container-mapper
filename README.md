@@ -14,6 +14,7 @@ Run the script on a machine hosting containers
         ./container-host-veth-interface.sh
 
 You'll see output such as
+
         Container naughty_yonath                 - Host veth54a5896
         Container goofy_darwin                   - Host vethe9b08d0
         Container goofy_franklin                 - Host vethca7fe61
